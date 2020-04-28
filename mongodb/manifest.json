@@ -1,0 +1,32 @@
+{
+    "manifest_version": "1",
+    "name": "MongoDB",
+    "version": "",
+    "keyname": "mongodb",
+    "description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. ",
+    "site": "https://www.mongodb.com/",
+    "author": "RodriguesFAS",
+    "category": "db",
+    "license": "",
+    "operations": [{
+            "name": "Save",
+            "keyname": "save",
+            "description": ""
+        },
+        {
+            "name": "Select One",
+            "keyname": "select_one",
+            "description": ""
+        },
+        {
+            "name": "Select",
+            "keyname": "select",
+            "description": ""
+        },
+        {
+            "name": "Delete",
+            "keyname": "delete",
+            "description": ""
+        }
+    ]
+}
