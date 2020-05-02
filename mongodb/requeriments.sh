@@ -1,2 +1,2 @@
-# Install Stanza NLP
-pip install stanza -U
+# Install MongoDB
+sudo apt install -y mongodb
